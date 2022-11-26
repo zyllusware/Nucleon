@@ -7,20 +7,7 @@ The Code :
 ```LUA
 
 
-function BypassValue(NameOfValue, ReturnValue) 
-    local mt = getrawmetatable(game)
-setreadonly(mt, false)
-local old_index = mt.__index
 
-mt.__index = function(a,b)
- if tostring(a) == NameOfValue then
-	 if tostring(b) == "Value" then
-		 return ReturnValue
-	 end
- end
- return old_index(a,b)
-end
-end
 
 
 function LagBIServer() 
