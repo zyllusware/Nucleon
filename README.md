@@ -2,6 +2,7 @@
 ### Skid code,
 
 I was a pathetic developer, Most of the code here is most likely skidded! I was the worst fucking coder, The reason Nucleon is discontinued is because I was skidding like fucking oh god, So anyways I'm gonna be giving you guys Nucleon V1's code so you guys can skid it too!
+Also had to mention that I never really liked lua, I only made Nucleon because of my friend `Vamp#3829`, I didn't even like lua at that time so I just skidded, But falconware will not be skidded ever.
 
 The Code is really irrelevant and most likely broken as of now.
 
