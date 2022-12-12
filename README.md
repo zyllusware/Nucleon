@@ -1,12 +1,15 @@
 # Nucleon For Skids
 ### Skid code,
+Not real good code, This code was really irrelevant and broken as my smartness was **questionable**,I have realised this code so that you guys can skid it!
 
-I was a pathetic developer, Most of the code here is most likely skidded! I was the worst fucking coder, The reason Nucleon is discontinued is because I was skidding like fucking oh god, So anyways I'm gonna be giving you guys Nucleon V1's code so you guys can skid it too!
-Also had to mention that I never really liked lua, I only made Nucleon because of my friend `Vamp#3829`, I didn't even like lua at that time so I just skidded, But falconware will not be skidded ever.
+**Note:**
+Skidding takes you nowhere, It's just pathetic on how you're script relies on what another person's script leads to, I mean you guys can skid the code if you want to but you will always have a thought that **you** didn't write the code, You won't feel proud of what you've done, I mean it's totally cool if you're using this for your reference or just to learn (Just to mention it's really unreliable and irrelevant).
 
-The Code is really irrelevant and most likely broken as of now.
+
 
 The Code :
+
+###Go Skid off of it!!!!
 ```LUA
 
 --This is to prevent the script from crashing for you skidds
